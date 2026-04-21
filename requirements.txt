@@ -1,0 +1,23 @@
+# Core LLM
+langchain
+langchain-core
+langchain-groq
+groq
+
+# Environment
+python-dotenv
+
+# Search
+tavily-python
+
+# Web scraping
+requests
+beautifulsoup4
+lxml
+
+# UI
+streamlit
+
+# Utilities
+pydantic
+tenacity
