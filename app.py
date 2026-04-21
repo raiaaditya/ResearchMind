@@ -605,9 +605,8 @@ with left:
     st.markdown('<div class="panel">', unsafe_allow_html=True)
     st.markdown('<p class="panel-title">Research Query</p>', unsafe_allow_html=True)
     topic = st.text_input(
-        "",
+        "Research Topic",
         placeholder="Enter a research topic…",
-        label_visibility="collapsed",
         key="research_topic",
     )
     st.markdown("<br style='margin:0.3rem'>", unsafe_allow_html=True)
